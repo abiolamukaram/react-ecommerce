@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "title": "Addidas classic joggers",
+        "category": "Dress",
+        "price": 63.85,
+        "image": "/images/products/top-product.png",
+        "status": "Best Sellers"
+        
+    },
+    {
+        "id": 2,
+        "title": "Nike bag",
+        "category": "Bag",
+        "price": 130.00,
+        "image": "/images/products/top-product1.png",
+        "status": "Best Sellers"
+        
+    },
+    {
+        "id": 3,
+        "title": "Print Scarf",
+        "category": "Dress",
+        "price": 53.00,
+        "image": "/images/products/top-product2.png",
+        "status": "Best Sellers"
+        
+    },
+    {
+        "id": 4,
+        "title": "Yellow Hoodie",
+        "category": "Hoodies",
+        "price": 63.85,
+        "image": "/images/products/top-product3.png",
+        "status": "Best Sellers"
+        
+    },
+    {
+        "id": 5,
+        "title": "Bassic Dress Green",
+        "category": "Dress",
+        "price": 236.00,
+        "image": "/images/products/top-product4.png",
+        "status": "Best Sellers"
+        
+    },
+    {
+        "id": 6,
+        "title": "Nike Air Shoe",
+        "category": "Shoe",
+        "price": 198.85,
+        "image": "/images/products/top-product5.png",
+        "status": "Best Sellers"
+        
+    },
+    {
+        "id": 7,
+        "title": "Nike classic Hoodie",
+        "category": "Hoodies",
+        "price": 120.50,
+        "image": "/images/products/top-product6.png",
+        "status": "Best Sellers"
+        
+    },
+    {
+        "id": 8,
+        "title": "Nike Sportwear Luxe",
+        "category": "Glasses",
+        "price": 160.00,
+        "image": "/images/products/top-product7.png",
+        "status": "Best Sellers"
+        
+    }
+    
+]
